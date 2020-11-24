@@ -2,13 +2,22 @@
   "name": "cra-template-testing",
   "version": "1.0.0",
   "description": "testing template for create react app",
-  "repository": "https://github.com/PaulTmatik/cra-template-testing.git",
-  "license": "MIT",
   "keywords": [
     "react",
     "create-react-app",
     "template"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PaulTmatik/cra-template-testing.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/PaulTmatik/cra-template-testing/issues"
+  },
   "files": [
     "template",
     "template.json"
